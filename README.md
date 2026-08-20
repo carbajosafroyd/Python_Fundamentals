@@ -1,1 +1,1 @@
-# 30-Days-Of-Python
+My repo for learning Python ^^ 
